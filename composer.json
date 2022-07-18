@@ -1,6 +1,7 @@
 {
     "name": "guzzlehttp/guzzle",
     "description": "Guzzle is a PHP HTTP client library",
+    "minimum-stability": "dev",
     "keywords": [
         "framework",
         "http",
